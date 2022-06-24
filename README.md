@@ -1,1 +1,1 @@
-# https://github.com/Ayushraj2525/dynojindabaad/ok.php
+# https://raw.githubusercontent.com/Ayushraj2525/dynojindabaad/main/ok.php?token=GHSAT0AAAAAABV6ZZAFTSTDQRHQXWSTCVJCYVV26QA
